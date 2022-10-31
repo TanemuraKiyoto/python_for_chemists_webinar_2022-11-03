@@ -9,6 +9,7 @@ dependencies:
   - rise
   - networkx
   - ase
+  - nglview
   - tqdm
   - scikit-learn
   - pip:
