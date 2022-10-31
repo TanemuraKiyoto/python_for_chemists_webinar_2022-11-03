@@ -1,0 +1,16 @@
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - matplotlib
+  - rdkit
+  - rise
+  - networkx
+  - ase
+  - tqdm
+  - scikit-learn
+  - pip:
+    - ase
+    - torchani
