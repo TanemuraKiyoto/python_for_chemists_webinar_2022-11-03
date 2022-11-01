@@ -12,6 +12,9 @@ dependencies:
   - nglview
   - tqdm
   - scikit-learn
+  - ipython
+  - ipywidgets
+  - ipykernel
   - pip:
     - ase
     - torchani
