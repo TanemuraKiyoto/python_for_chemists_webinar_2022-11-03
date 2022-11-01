@@ -20,6 +20,3 @@ dependencies:
   - pip:
     - ase
     - torchani
-    - pytraj
-    - ipython_blocking
-    - moviepy
